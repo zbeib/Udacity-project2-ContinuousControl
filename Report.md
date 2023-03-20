@@ -33,6 +33,7 @@ LEAKY =0.01             # slope for negative values
 
 #### Performance
 The agents solved the environment (by reaching a collective average reward of 30.0 over 100 episodes) in 11 episodes, before the 1000 episode limit.
+
 ![image](https://user-images.githubusercontent.com/128342152/226429499-1014582b-9e15-437c-9410-9169b7afea54.png)
 
 ## Future Work
